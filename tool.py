@@ -39,7 +39,7 @@ def main():
 
     if tool == "2":
         msg = input("\n[MESSAGE ENCRYPTION] Input text: ")
-        key = "ela-is-yachis-little-girl-177013-UwU"
+        key = "1-2-3-4-lmao-1-2-3-4"
         encoded = cryptocode.encrypt(msg, key)
         print(f"encrypted msg: {encoded}")
         main()
